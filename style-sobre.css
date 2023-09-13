@@ -27,6 +27,7 @@ header{
 .apresentacao{
     display: flex;
     margin: 23px;  
+    font-family:'Cormorant Garamond', serif;
 }
 #foto-perfil{
     display: flex;
